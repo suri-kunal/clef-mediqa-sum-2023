@@ -1,0 +1,3 @@
+[submodule "2023_ImageCLEFmed_Mediqa"]
+	path = 2023_ImageCLEFmed_Mediqa
+	url = https://github.com/ImageCLEF/2023_ImageCLEFmed_Mediqa.git

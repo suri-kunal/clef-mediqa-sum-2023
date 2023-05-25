@@ -1,0 +1,10 @@
+.Trash-0/
+__pycache__/
+.git
+mediqa-chat-data/
+2023_ImageCLEFmed_Mediqa/
+wandb/
+*.ipynb
+*.py
+*.json
+lora-3-fold-stratified-cv-biobart-v2-large-peft-int8-*

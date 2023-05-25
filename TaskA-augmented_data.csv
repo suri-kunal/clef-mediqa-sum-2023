@@ -1,0 +1,571 @@
+ID,section_header,section_text,dialogue
+Augmented_21_1,OTHER_HISTORY,completely unremarkable FHx. Has boyfriend and is sexually active. Denied drug/ETOH/Tobacco use.,"
+
+Doctor: So, how can I help you today?
+
+Patient: I'm here for a checkup.
+
+Doctor: Alright. Can you tell me about your family history?
+
+Patient: It's completely unremarkable.
+
+Doctor: Got it. Do you have any other medical conditions that I should know about?
+
+Patient: No, nothing else.
+
+Doctor: Do you have a boyfriend?
+
+Patient: Yes, I do.
+
+Doctor: Are you sexually active?
+
+Patient: Yes.
+
+Doctor: Are you using any drugs, alcohol, or tobacco products?
+
+Patient: No, I'm not."
+Augmented_21_2,OTHER_HISTORY,completely unremarkable FHx. Has boyfriend and is sexually active. Denied drug/ETOH/Tobacco use.,"
+
+Doctor: So, what brings you in today?
+
+Patient: Well, I just wanted to get a checkup.
+
+Doctor: Alright. Can you tell me a bit about your health history?
+
+Patient: Sure. My family history is completely unremarkable. I'm in a relationship and sexually active, but I don't use drugs, alcohol, or tobacco."
+Augmented_89_1,IMMUNIZATIONS,Not sure.,"
+
+Patient: I'm not sure if I should take this medication.
+Doctor: Well, let's talk about why you are concerned. What are your worries about taking the medication?"
+Augmented_89_2,IMMUNIZATIONS,Not sure.,"
+
+Doctor: Are you feeling any better today? 
+Patient: Not sure. 
+Doctor: What symptoms are you still experiencing?"
+Augmented_108_1,LABS,First set of cardiac enzyme profile negative.  H&H stable.  BUN and creatinine within normal limits.,"
+
+Doctor: Good news! Your first set of cardiac enzymes are all negative, and your hemoglobin and hematocrit are stable.
+
+Patient: That's great. What about my BUN and creatinine levels?
+
+Doctor: Those are also within the normal limits."
+Augmented_108_2,LABS,First set of cardiac enzyme profile negative.  H&H stable.  BUN and creatinine within normal limits.,"
+
+Doctor: Good news! The first set of cardiac enzyme profile came back negative.
+
+Patient: Does that mean I'm in the clear?
+
+Doctor: Yes, the results are negative. Your hemoglobin and hematocrit levels are stable, and your BUN and creatinine levels are within normal limits. So, everything looks good."
+Augmented_219_1,IMAGING,X-rays shows no open fracture or bony abnormality.,"
+
+Doctor: So, Mrs. Smith, the X-rays show that there is no open fracture or any bony abnormality. 
+
+Patient: That's great news! 
+
+Doctor: Yes, it is. It's likely that it's just a soft tissue injury. I'll prescribe some pain relief and anti-inflammatory medication and you should start to feel better soon. 
+
+Patient: Wonderful. Thank you very much."
+Augmented_219_2,IMAGING,X-rays shows no open fracture or bony abnormality.,"
+
+Doctor: We've gone through the X-rays and I'm glad to inform you that there is no open fracture or bony abnormality. 
+
+Patient: That's great news! Does that mean I'm free to go?
+
+Doctor: Not quite yet. We'll need to give you a few more tests before we can confirm that your bones are healthy."
+Augmented_229_1,PROCEDURES,None.,"
+
+Patient: Doctor, I'm feeling unwell and I need some help.
+
+Doctor: What seems to be the problem?"
+Augmented_229_2,PROCEDURES,None.,"
+
+Doctor: Good morning, how can I help you?
+Patient: I'm feeling a bit under the weather. 
+Doctor: What symptoms are you experiencing?"
+Augmented_310_1,GYNHX,"Gravida 2, Para 2, Ab 0. Menstrual periods have been regular, last menstrual period almost 1 month ago. No menorrhagia. Never had a mammogram. Has yearly Pap smears which have all been normal.","
+
+Doctor: Good morning, Mrs. Johnson. How can I help you today?
+
+Patient: Hi, I'm here for my annual checkup.
+
+Doctor: Alright, could you tell me a bit about your medical history?
+
+Patient: Sure. I'm Gravida 2, Para 2, Ab 0. My menstrual periods have been regular and my last menstrual period was almost one month ago. I haven't had any menorrhagia. I've never had a mammogram, but I do get a yearly pap smear and all of my results have been normal. 
+
+Doctor: Great. We'll go ahead and schedule a mammogram for you and keep up with your yearly Pap smears. Is there anything else I can help you with today?"
+Augmented_310_2,GYNHX,"Gravida 2, Para 2, Ab 0. Menstrual periods have been regular, last menstrual period almost 1 month ago. No menorrhagia. Never had a mammogram. Has yearly Pap smears which have all been normal.","
+
+Doctor: So, Gravida 2, Para 2, Ab 0, is that correct?
+
+Patient: Yes, that is correct.
+
+Doctor: Have your menstrual periods been regular?
+
+Patient: Yes, my last menstrual period was almost a month ago.
+
+Doctor: Have you experienced menorrhagia?
+
+Patient: No, I haven't experienced any menorrhagia.
+
+Doctor: Have you ever had a mammogram?
+
+Patient: No, I have never had a mammogram.
+
+Doctor: Have you been getting yearly Pap smears?
+
+Patient: Yes, I have been getting yearly Pap smears and they have all been normal."
+Augmented_404_1,GYNHX,"G3, P1.  She is currently 5 months' pregnant."," 
+
+Doctor : Hello, Mrs. P1. How can I help you today?
+Patient : Hi, I'm 5 months pregnant and I'm a bit concerned about my health.
+Doctor : Congratulations! That's wonderful news. Have you been experiencing any symptoms that have been worrying you?"
+Augmented_404_2,GYNHX,"G3, P1.  She is currently 5 months' pregnant.","
+
+Doctor: Good morning, how can I help you?
+
+Patient: Hi. I'm 5 months pregnant and I'm having some abdominal pain.
+
+Doctor: OK. Have you had any other symptoms?"
+Augmented_448_1,IMMUNIZATIONS,Also up-to-date.,"
+
+Doctor: Have you been keeping up to date with your vaccinations? 
+Patient: Yes, I'm all up to date."
+Augmented_448_2,IMMUNIZATIONS,Also up-to-date.,"
+
+Doctor: Good morning, Mrs. Smith. How are you feeling today?
+
+Patient: I'm feeling okay.
+
+Doctor: That's good to hear. Have you been keeping up with your medication?
+
+Patient: Yes, I have.
+
+Doctor: Excellent. Are your medical records up-to-date?
+
+Patient: Yes, they are."
+Augmented_495_1,GYNHX,Status post hysterectomy.,"
+
+Doctor: Good morning, Mrs. Jones. How are you feeling today?
+
+Patient: I'm feeling okay, doctor.
+
+Doctor: That's good to hear. I understand you recently underwent a hysterectomy. How are you doing since then?
+
+Patient: It's been a little difficult. I'm still having some pain and discomfort.
+
+Doctor: We can certainly work on getting that pain and discomfort under control. Is there anything else you're experiencing?"
+Augmented_495_2,GYNHX,Status post hysterectomy.,"
+
+Doctor: Good morning, Mrs. Jones. How can I help you today?
+
+Patient: I'm here for a follow up after my hysterectomy.
+
+Doctor: Alright, let's take a look. How have you been feeling since the procedure? Any pain or discomfort?
+
+Patient: I'm feeling okay. I had some discomfort the first few days, but it has since subsided.
+
+Doctor: That's good to hear. Any other concerns?
+
+Patient: No, just wanted to make sure everything was healing properly.
+
+Doctor: Well, everything looks good. Be sure to follow up with your primary care physician in the next few weeks. If any issues arise, don't hesitate to give us a call."
+Augmented_576_1,IMAGING,Chest x-ray revealed a diffuse pulmonary edema.,"
+
+Doctor: Good morning, Mrs. Smith. I have the results of your chest x-ray and I'm sorry to say that it reveals a diffuse pulmonary edema.
+
+Patient: Oh no, what does that mean?
+
+Doctor: It means that you have fluid accumulation in your lungs. We will need to start you on a treatment plan right away to help reduce the fluid and bring your breathing back to normal."
+Augmented_576_2,IMAGING,Chest x-ray revealed a diffuse pulmonary edema.,"
+
+Doctor : So, based on the chest x-ray, it looks like you have diffuse pulmonary edema.
+
+Patient : What does that mean?
+
+Doctor : Diffuse pulmonary edema is a condition in which your lungs are filled with excess fluid. This can cause difficulty in breathing and chest pain."
+Augmented_584_1,GYNHX,"Her last menstrual period was 6/3/2009.  The patient is admitting to having a recent abortion done.  She is not too sure whether the abortion was completed or not, has not had a followup with her OB/GYN.","
+
+Doctor: So, you said your last menstrual period was 6/3/2009? 
+
+Patient: Yes, that's correct.
+
+Doctor: Ok, and you said you had an abortion recently? 
+
+Patient: Yes, I'm not too sure if it was completed or not. I haven't had a follow-up with my OB/GYN. 
+
+Doctor: Ok, I'm going to recommend that you follow-up with your OB/GYN to make sure the abortion was completed and to discuss any other concerns you may have."
+Augmented_584_2,GYNHX,"Her last menstrual period was 6/3/2009.  The patient is admitting to having a recent abortion done.  She is not too sure whether the abortion was completed or not, has not had a followup with her OB/GYN.","
+
+Doctor: Okay, so you're telling me that your last menstrual period was 6/3/2009? 
+
+Patient: Yes, that's right. 
+
+Doctor: And you're also telling me that you recently had an abortion? Is that correct? 
+
+Patient: Yes, that's right. But I'm not sure if the abortion was completed or not, and I haven't had any followup with my OB/GYN."
+Augmented_632_1,IMMUNIZATIONS,Nothing significant.,"
+
+Doctor: Good morning! How can I help you today?
+Patient: Good morning. I don't think there's anything significant going on. I just wanted to get a check-up.
+Doctor: Sure. Let's get started."
+Augmented_632_2,IMMUNIZATIONS,Nothing significant.,"
+
+Doctor : Hello, how are you feeling today?
+Patient : I'm not feeling very well.
+Doctor : What seems to be the problem?
+Patient : I'm feeling fatigued and have been having headaches.
+Doctor : Have you had any other symptoms?
+Patient : Nothing significant."
+Augmented_650_1,IMAGING,Chest x-ray shows previous sternotomy with ICD implantation and aortic valve mechanical implant with left-sided opacification of the diaphragm worrisome for pleural effusion.,"
+
+Doctor:  ""So, based on your chest X-ray, it appears that you have had a sternotomy with ICD implantation and aortic valve mechanical implant. There is also left-sided opacification of the diaphragm which is worrisome for pleural effusion. Can you tell me a bit more about your symptoms?"" 
+
+Patient: ""Yes, I have been having difficulty breathing and some chest pain."" 
+
+Doctor: ""I see. That could be related to the pleural effusion, so we should look into it further. We can do some additional tests, if you'd like."""
+Augmented_650_2,IMAGING,Chest x-ray shows previous sternotomy with ICD implantation and aortic valve mechanical implant with left-sided opacification of the diaphragm worrisome for pleural effusion.,"
+
+Doctor : Good morning, I have the results of your chest x-ray. 
+
+Patient : What did it show?
+
+Doctor : It shows that you have had a sternotomy and that you have an implantable cardioverter defibrillator device. Additionally, you have a mechanical aortic valve implant and there is some left-sided opacification of the diaphragm which is concerning for a pleural effusion. 
+
+Patient : What does that mean?
+
+Doctor : A pleural effusion is when there is an accumulation of fluid in the space between the two layers of tissue that line the lungs. It can be caused by a variety of conditions and can cause shortness of breath and chest pain."
+Augmented_752_1,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, Mrs. Smith. It's nice to see you again. How have you been since we last met?
+
+Patient: Good morning, Doctor. I've been doing well. I'm keeping up to date with my medications and following my diet plan."
+Augmented_752_2,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, Mrs. Smith. I'm Doctor Johnson. How are you doing today?
+
+Mrs. Smith: Good morning, Doctor Johnson. I'm doing well, thank you.
+
+Doctor: That's great to hear. Can you tell me why you're here today?
+
+Mrs. Smith: Yes, I'm here for my annual check-up to make sure I'm up-to-date on my health.
+
+Doctor: Very good. Let's get started."
+Augmented_754_1,GYNHX,Last pap performed 10/2001. Gravida: 1. Para: 1.,"
+
+Doctor: So, when was your last pap test?
+
+Patient: 10/2001.
+
+Doctor: Okay, and how many pregnancies have you had?
+
+Patient: Gravida: 1. Para: 1."
+Augmented_754_2,GYNHX,Last pap performed 10/2001. Gravida: 1. Para: 1.,"
+
+Doctor: So, I see your last pap was done in October 2001. How many times have you been pregnant since then?
+
+Patient: Just once.
+
+Doctor: And did you have any children?
+
+Patient: Yes, I have one child."
+Augmented_774_1,IMAGING,"The patient's CBC results from before were reviewed.  Her CBC performed in the office today showed hemoglobin of 13.7, white count of 13.3, lymphocyte count of 7.6, and platelet count of 26,000.","
+
+Doctor: So, let's review your CBC results. Your hemoglobin level is 13.7, your white count is 13.3, your lymphocyte count is 7.6, and your platelet count is 26,000.
+
+Patient: What do these results mean?
+
+Doctor: The hemoglobin level is good, and the white count is within a normal range. The lymphocyte count is slightly low, but not concerning. The platelet count is also within a normal range. Your CBC results look good overall."
+Augmented_774_2,IMAGING,"The patient's CBC results from before were reviewed.  Her CBC performed in the office today showed hemoglobin of 13.7, white count of 13.3, lymphocyte count of 7.6, and platelet count of 26,000.","
+
+Doctor: So, Mrs. Smith, I looked over your CBC results from before and today's results show a hemoglobin level of 13.7, a white count of 13.3, a lymphocyte count of 7.6, and a platelet count of 26,000.
+
+Patient: So what does that mean?
+
+Doctor: Overall, these results look good. Your hemoglobin levels are in the normal range, as are your white and lymphocyte counts. The platelet count is slightly lower than normal, but still within the normal range."
+Augmented_795_1,IMMUNIZATIONS,"Last flu vaccine was given on 1999. Last pneumonia vaccine was given on 1996. Family Medical History: Father age 79, history of cerebrovascular accident (stroke) and hypertension. Mother history of CHF and emphysema that died at the age of 74. No brothers and sisters.","
+
+Doctor: Good morning, how are you today?
+
+Patient: I'm doing okay, thank you.
+
+Doctor: I understand you haven't had the flu vaccine since 1999, is that right?
+
+Patient: Yes, that's correct.
+
+Doctor: And you haven't had the pneumonia vaccine since 1996?
+
+Patient: Yes, that's right.
+
+Doctor: Do you have any family medical history I should know about?
+
+Patient: Yes. My father is 79 and he has a history of stroke and hypertension. My mother had CHF and emphysema before she died at the age of 74. I don't have any brothers or sisters."
+Augmented_795_2,IMMUNIZATIONS,"Last flu vaccine was given on 1999. Last pneumonia vaccine was given on 1996. Family Medical History: Father age 79, history of cerebrovascular accident (stroke) and hypertension. Mother history of CHF and emphysema that died at the age of 74. No brothers and sisters.","
+
+Doctor: Good morning, how can I help you today? 
+Patient: I wanted to get an update on my immunization and family medical history. 
+Doctor: Sure, what kind of immunizations do you need? 
+Patient: I'm not sure, I think I had a flu vaccine in 1999 and a pneumonia vaccine in 1996. 
+Doctor: Okay, those are the most recent ones, so we don't need to worry about those. Is there anything else regarding immunizations? 
+Patient: No, that's all. 
+Doctor: Alright. What about your family medical history? 
+Patient: My father is 79 and has a history of cerebrovascular accident (stroke) and hypertension. My mother passed away at the age of 74 with a history of CHF and emphysema. I don't have any siblings. 
+Doctor: Okay. Thank you for the information. Is there anything else I can help you with?"
+Augmented_833_1,IMMUNIZATIONS,None.,"
+
+Patient: Hi Doctor, I'm not feeling well.
+Doctor: What seems to be the issue?"
+Augmented_833_2,IMMUNIZATIONS,None.,"
+
+Doctor: Good morning, how can I help you?
+Patient: I'm feeling a bit unwell and I'm not sure what's wrong.
+Doctor: Okay, can you describe the symptoms you're experiencing?"
+Augmented_857_1,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, Mrs. Smith. How are you feeling today?
+
+Patient: Good morning, Doctor. I'm feeling okay, but I wanted to make sure I'm up-to-date on my check-ups.
+
+Doctor: That's great. Let me just take a look at your medical history, and we can go from there."
+Augmented_857_2,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, how are you feeling today?
+Patient: I'm feeling good.
+Doctor: That's great to hear. Are you up-to-date on all your medications?
+Patient: Yes, I am."
+Augmented_920_1,PROCEDURES,None.,"
+
+Patient: Hi doctor, I'm having trouble sleeping.
+
+Doctor: Hi there. What kind of trouble are you having with sleeping?"
+Augmented_920_2,PROCEDURES,None.,"
+
+Patient: Hi Doctor, I'm feeling a bit off today.
+
+Doctor: What kind of symptoms are you experiencing?"
+Augmented_950_1,OTHER_HISTORY,Reviewed and unchanged from the dictation on 12/03/2003.,"
+
+Doctor: Good morning, Mrs. Smith. How are you feeling today? 
+
+Mrs. Smith: Not so good, doctor. I'm having a lot of pain in my back and chest.
+
+Doctor: Have you seen any other doctors about this?
+
+Mrs. Smith: Yes, I've gone to a few, but they couldn't find anything wrong.
+
+Doctor: Alright, let's take a look. Where is the pain located?"
+Augmented_950_2,OTHER_HISTORY,Reviewed and unchanged from the dictation on 12/03/2003.,"
+
+Doctor: Good morning, Mrs. Smith, how can I help you today?
+
+Patient: I'm having difficulty breathing and I've been feeling very tired lately.
+
+Doctor: Have you had any fever or chest pain?
+
+Patient: No, I haven't had either of those.
+
+Doctor: Have you experienced any other symptoms?
+
+Patient: Yes, I've been having coughing fits and a dry throat."
+Augmented_1073_1,PROCEDURES,Total thyroidectomy.,"
+
+Doctor : Good morning, Mrs. Smith. How are you feeling today?
+
+Mrs. Smith : I'm feeling a bit anxious, doctor.
+
+Doctor : That's understandable. I'm here to discuss the results of your biopsy. It looks like you'll need to have a total thyroidectomy. 
+
+Mrs. Smith : That sounds serious. What will that involve?
+
+Doctor : A total thyroidectomy is a surgical procedure that involves removing the entire thyroid gland. It's a fairly straightforward procedure, and the recovery process is usually quite fast. We'll need to monitor your hormone levels after the surgery, but overall it should be a smooth process. 
+
+Mrs. Smith : Okay, that sounds good. When can I schedule the surgery? 
+
+Doctor : We can schedule it for next week if that works for you. I'll need to run a few more tests before the surgery, so I'll be in touch with more details soon."
+Augmented_1073_2,PROCEDURES,Total thyroidectomy.,"
+
+Doctor : Good morning, Mrs. Jones. I'm Dr. Kim. How can I help you today?
+
+Mrs. Jones : Good morning, Doctor. I'm here for a total thyroidectomy.
+
+Doctor : All right. We'll need to go over a few things before we get started. Can you tell me why you're having the procedure?
+
+Mrs. Jones : Yes, I have an overactive thyroid and it needs to be removed.
+
+Doctor : I see. We'll need to do a few tests before we can proceed. Are you familiar with the risks and side effects of the procedure?
+
+Mrs. Jones : Yes, I am. I'm prepared for the risks and side effects.
+
+Doctor : That's great. We'll proceed with the procedure then. We'll make sure to take the utmost care to ensure your safety."
+Augmented_1088_1,IMAGING,She has had no recent radiological procedures.,"
+
+Doctor : Good morning, how can I help you?
+
+Patient : I'm feeling some pain in my chest and I'm not sure why.
+
+Doctor : Have you had any recent radiological procedures?
+
+Patient : No, I haven't."
+Augmented_1088_2,IMAGING,She has had no recent radiological procedures.,"
+
+Doctor : Have you had any recent radiological procedures?
+Patient : No, I haven't."
+Augmented_1143_1,IMAGING,"Chest x-ray ordered by ER physician is unremarkable, but to me also.","
+
+Doctor: The chest x-ray you had ordered is unremarkable.
+
+Patient: That's good news! Does that mean I'm okay?
+
+Doctor: Yes, it looks like you're in good health."
+Augmented_1143_2,IMAGING,"Chest x-ray ordered by ER physician is unremarkable, but to me also.","
+
+Doctor: Good morning, how can I help you? 
+Patient: I just came back from the ER and they said my chest x-ray was unremarkable. 
+Doctor: That's good news, it means there are no abnormalities in your chest. 
+Patient: So, nothing to worry about? 
+Doctor: No, everything looks normal on the x-ray."
+Augmented_1160_1,LABS,The only significant finding in the ultrasound of the area is that it shows this to be related to bone.,"
+
+Doctor: Good morning. What brings you here?
+
+Patient: I'm here for an ultrasound.
+
+Doctor: Alright. I understand. How long have you been experiencing the pain?
+
+Patient: It's been about a week now.
+
+Doctor: Okay. Let's take a look at the ultrasound. Hmm, the only significant finding is that it shows this to be related to bone. It appears to be a bone issue. I suggest we move forward with further tests to determine the exact cause."
+Augmented_1160_2,LABS,The only significant finding in the ultrasound of the area is that it shows this to be related to bone.,"
+
+Doctor: Good morning, Mrs. Smith. I have the results of your ultrasound.
+
+Patient: Yes, what did it show?
+
+Doctor: The only significant finding is that it appears to be related to bone. Does that make sense to you?
+
+Patient: Yes, I suppose so. Does that mean there is something wrong with my bone?
+
+Doctor: It's difficult to say without any other information. We'll need to do some more tests and scans to determine the cause of the issue."
+Augmented_1178_1,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor : Good morning, how are you today?
+
+Patient : I'm doing great, thank you.
+
+Doctor : That's good to hear. Have you been keeping up to date with your check-ups?
+
+Patient : Yes, I have been. I had my last check-up a few weeks ago and everything is looking good."
+Augmented_1178_2,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, Mr. Smith. How are you feeling today?
+
+Patient: I'm feeling okay.
+
+Doctor: That's good to hear. Are you up to date on your vaccinations?
+
+Patient: Yes, I'm up-to-date with my vaccinations."
+Augmented_1237_1,LABS,"All labs within normal limits with the exception of Sodium 133, Creatinine 0.2, TSH 0.004, Free T4 19.3 EKG showed sinus tachycardia with a rate of 122.  Urine pregnancy test was negative.","
+
+Doctor: Good morning, how can I help you today?
+
+Patient: I'm here for my lab results.
+
+Doctor: Yes, the results are all within normal limits with the exception of Sodium 133, Creatinine 0.2, TSH 0.004, Free T4 19.3. The EKG showed sinus tachycardia with a rate of 122. The urine pregnancy test was also negative. Is there anything else I can help you with?"
+Augmented_1237_2,LABS,"All labs within normal limits with the exception of Sodium 133, Creatinine 0.2, TSH 0.004, Free T4 19.3 EKG showed sinus tachycardia with a rate of 122.  Urine pregnancy test was negative.","
+
+Doctor: Good morning, Mrs. Jones. How are you feeling today?
+
+Patient: I'm feeling okay, doctor.
+
+Doctor: That's good to hear. I'm going to review your lab results with you. All of your labs are within normal limits, with the exception of your Sodium which is 133, Creatinine 0.2, TSH 0.004, and Free T4 19.3. Your EKG also showed sinus tachycardia with a rate of 122. The urine pregnancy test was negative. Do you have any questions about the results?"
+Augmented_1275_1,GYNHX,"She does not bleed.  She has both ovaries, as well as her uterus and cervix.  She is on no hormonal therapy.","
+
+Doctor: So, what brings you to see me today?
+
+Patient: I've been having some pelvic pain and I'm concerned.
+
+Doctor: Okay. Do you have any bleeding?
+
+Patient: No, I don't.
+
+Doctor: Are you on any hormonal therapies?
+
+Patient: No, I'm not.
+
+Doctor: Alright. Have you had any imaging done to check your ovaries, uterus, and cervix?
+
+Patient: Yes, I have. I have both ovaries, as well as my uterus and cervix."
+Augmented_1275_2,GYNHX,"She does not bleed.  She has both ovaries, as well as her uterus and cervix.  She is on no hormonal therapy.","
+
+Doctor: Hello, what seems to be the problem?
+Patient: I'm not sure, I'm having some abdominal pain.
+Doctor: Do you experience any bleeding?
+Patient: No, I don't think so.
+Doctor: Do you have any other symptoms?
+Patient: Well, I've been feeling a little bloated and having some occasional cramps.
+Doctor: Okay, let me take a look. Can you tell me what your reproductive organs look like?
+Patient: Yes, I have both ovaries and my uterus and cervix are all in place.
+Doctor: Are you on any hormonal therapy?
+Patient: No, I'm not."
+Augmented_1295_1,OTHER_HISTORY,"Reviewed.  There are no changes, otherwise.","
+
+Doctor: So, it looks like we have reviewed everything and there are no changes necessary. 
+Patient: Great! That's a relief. 
+Doctor: Yes, it's always good to come out of these appointments without any changes. Is there anything else I can help you with?"
+Augmented_1295_2,OTHER_HISTORY,"Reviewed.  There are no changes, otherwise.","
+
+Doctor: So, it looks like we reviewed everything and there are no changes, correct?
+Patient: Yes, that's correct."
+Augmented_1296_1,PROCEDURES,Permanent pacemaker placement after temporary internal pacemaker.,"
+
+Doctor : Good morning, Mrs. Smith. How are you feeling today?
+
+Patient : I'm feeling okay, a bit anxious though.
+
+Doctor : I understand. I'm here to discuss the results of your tests and to discuss your options for permanent pacemaker placement after the temporary internal pacemaker.
+
+Patient : So what's the next step?
+
+Doctor : We'll need to proceed with a procedure to insert a permanent pacemaker. This involves placing small electrodes in your heart, which are connected to a small generator that we'll implant in your chest. The generator will send regular electrical impulses to your heart to keep it beating in a regular rhythm. It's a fairly simple procedure with minimal risks."
+Augmented_1296_2,PROCEDURES,Permanent pacemaker placement after temporary internal pacemaker.,"
+
+Doctor: Good morning, Mrs. Smith. I'm Dr. Johnson.
+
+Patient: Good morning, Dr. Johnson.
+
+Doctor: I understand you had a temporary internal pacemaker placed and now we need to discuss the possibility of a permanent pacemaker placement. Is that correct?
+
+Patient: Yes, that is correct.
+
+Doctor: Alright, I will explain the process to you. The procedure is done with a small incision in your chest and involves connecting the pacemaker to your heart through two wires. After the pacemaker is in place, I will program it to best meet your needs. Are you comfortable with the procedure?
+
+Patient: Yes, I am.
+
+Doctor: Great. I will arrange for you to get the permanent pacemaker placed as soon as possible. Is there anything else I can help you with?
+
+Patient: No, I think that's all. Thank you, Dr. Johnson."
+Augmented_1298_1,IMAGING,"EKG shows sinus tachycardia, no acute ST changes.","
+
+Doctor: ""Good news - your EKG shows sinus tachycardia but there are no acute ST changes."" 
+
+Patient: ""Does that mean I'm ok?""
+
+Doctor: ""It means we have to monitor the tachycardia, but so far everything looks good. We'll need to take some more tests to be sure."""
+Augmented_1298_2,IMAGING,"EKG shows sinus tachycardia, no acute ST changes.","
+
+Doctor: After taking a look at your EKG, it shows that you have sinus tachycardia, but there are no acute ST changes.
+
+Patient: Does this mean anything serious?
+
+Doctor: Sinus tachycardia is an abnormally fast heart rate, but it isn't necessarily an indicator of a more serious issue. We should monitor it to make sure it doesn't become something more serious."
+Augmented_1299_1,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Good morning, how are you feeling today?
+Patient: Hi, I'm feeling good.
+Doctor: That's great to hear. Have you been keeping up to date with your medications?
+Patient: Yes, I've been taking them as prescribed."
+Augmented_1299_2,IMMUNIZATIONS,Up-to-date.,"
+
+Doctor: Hello, how are you today?
+Patient: I'm doing well, thank you. How about you?
+Doctor: I'm doing great, thank you. Are you up-to-date with your check-ups and tests?
+Patient: Yes, I am. I just had my annual check-up last month."

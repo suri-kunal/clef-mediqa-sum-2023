@@ -1,0 +1,22 @@
+{
+  "0": "ALLERGY",
+  "1": "ASSESSMENT",
+  "2": "CC",
+  "3": "DIAGNOSIS",
+  "4": "DISPOSITION",
+  "5": "EDCOURSE",
+  "6": "EXAM",
+  "7": "FAM/SOCHX",
+  "8": "GENHX",
+  "9": "GYNHX",
+  "10": "IMAGING",
+  "11": "IMMUNIZATIONS",
+  "12": "LABS",
+  "13": "MEDICATIONS",
+  "14": "OTHER_HISTORY",
+  "15": "PASTMEDICALHX",
+  "16": "PASTSURGICAL",
+  "17": "PLAN",
+  "18": "PROCEDURES",
+  "19": "ROS"
+}
